@@ -1,0 +1,144 @@
+{
+    "jogos": [
+        {
+            "nome": "Unsighted",
+            "descricao": "Unsighted é um metroidvania de ação e aventura com um sistema de tempo único. Explore a cidade de Arcadia e lute contra autômatos para salvar seus amigos antes que o tempo acabe.",
+            "ano": 2021,
+            "link": "https://store.steampowered.com/app/1062110/UNSIGHTED/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1062110/header.jpg"
+        },
+        {
+            "nome": "Chroma Squad",
+            "descricao": "Chroma Squad é um RPG tático sobre cinco dublês que decidem largar seus empregos e iniciar seu próprio estúdio de TV inspirado em Power Rangers!",
+            "ano": 2015,
+            "link": "https://store.steampowered.com/app/251130/Chroma_Squad/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/251130/header.jpg"
+        },
+        {
+            "nome": "Dandara",
+            "descricao": "Dandara é um metroidvania 2D único, cheio de criaturas místicas e exploração sem limites. Desafie a gravidade saltando por pisos, paredes e tetos.",
+            "ano": 2018,
+            "link": "https://store.steampowered.com/app/612390/Dandara_Trials_of_Fear_Edition/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/612390/header.jpg"
+        },
+        {
+            "nome": "Horizon Chase Turbo",
+            "descricao": "Horizon Chase Turbo é um jogo de corrida inspirado nos grandes sucessos dos anos 80 e 90. É uma homenagem aos corredores de arcade clássicos com uma jogabilidade divertida e sem limites de velocidade.",
+            "ano": 2018,
+            "link": "https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/389140/header.jpg"
+        },
+        {
+            "nome": "Toren",
+            "descricao": "Toren é um jogo de aventura sombrio e fantástico sobre uma garota solitária que está presa em uma torre misteriosa, determinada a encontrar sua liberdade.",
+            "ano": 2015,
+            "link": "https://store.steampowered.com/app/320820/Toren/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/320820/header.jpg"
+        },
+        {
+            "nome": "En Garde!",
+            "descricao": "En Garde! é um jogo de ação e aventura de capa e espada! Lute contra guardas sem brio e nobres malvados, use o ambiente a seu favor e mostre seu estilo de luta único.",
+            "ano": 2023,
+            "link": "https://store.steampowered.com/app/1654660/En_Garde/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1654660/header.jpg"
+        },
+        {
+            "nome": "Celeste",
+            "descricao": "Ajude Madeline a sobreviver aos seus demônios internos em sua jornada até o topo da Montanha Celeste, neste jogo de plataforma super afiado com arte do estúdio brasileiro MiniBoss.",
+            "ano": 2018,
+            "link": "https://store.steampowered.com/app/504230/Celeste/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg"
+        },
+        {
+            "nome": "Knights of Pen & Paper +1 Edition",
+            "descricao": "Assuma o papel de jogadores de RPG de mesa, controlando tanto seus personagens quanto o Mestre do Jogo. Uma experiência de RPG retrô cheia de perigos, intrigas e referências culturais.",
+            "ano": 2013,
+            "link": "https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/231740/header.jpg"
+        },
+        {
+            "nome": "Blazing Chrome",
+            "descricao": "As máquinas dominam o mundo e os poucos humanos sobreviventes estão à beira do extermínio. Um jogo de ação run 'n gun clássico com ritmo acelerado e muita adrenalina.",
+            "ano": 2019,
+            "link": "https://store.steampowered.com/app/609110/Blazing_Chrome/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/609110/header.jpg"
+        },
+        {
+            "nome": "Momodora: Reverie Under the Moonlight",
+            "descricao": "Explore uma terra amaldiçoada, lute contra monstros e chefes desafiadores neste belo jogo de plataforma de ação 2D. É o quarto jogo da série Momodora.",
+            "ano": 2016,
+            "link": "https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/428550/header.jpg"
+        },
+        {
+            "nome": "Kaze and the Wild Masks",
+            "descricao": "Viaje pelas Ilhas de Cristal no estilo clássico de plataforma dos anos 90. Jogue como Kaze e salve seu amigo Hogo de uma maldição que espalhou o caos pelas ilhas.",
+            "ano": 2021,
+            "link": "https://store.steampowered.com/app/829280/Kaze_and_the_Wild_Masks/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/829280/header.jpg"
+        },
+        {
+            "nome": "No Place for Bravery",
+            "descricao": "No Place for Bravery é um RPG de ação 2D de cima para baixo que tece uma história de alto risco sobre um pai e seu filho deficiente.",
+            "ano": 2022,
+            "link": "https://store.steampowered.com/app/1039100/No_Place_for_Bravery/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1039100/header.jpg"
+        },
+        {
+            "nome": "Dodgeball Academia",
+            "descricao": "Dodgeball Academia é um RPG esportivo com um jovem estudante de queimada, Otto. Junte-se a Otto e a um elenco eclético de personagens para treinar e dominar dentro e fora das quadras de uma academia onde a queimada é tudo.",
+            "ano": 2021,
+            "link": "https://store.steampowered.com/app/1422420/Dodgeball_Academia/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg"
+        },
+        {
+            "nome": "Fobia - St. Dinfna Hotel",
+            "descricao": "Fobia é um jogo de terror de sobrevivência em primeira pessoa focado na exploração de ambientes, sobrevivência e resolução de quebra-cabeças.",
+            "ano": 2022,
+            "link": "https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1298140/header.jpg"
+        },
+        {
+            "nome": "Out of Space",
+            "descricao": "Out of Space é um jogo de estratégia cooperativo local e online sobre viver junto em uma casa no espaço. Você e seus amigos estão prestes a se mudar para uma casa no espaço, onde terão que lidar com uma infestação alienígena mortal.",
+            "ano": 2020,
+            "link": "https://store.steampowered.com/app/400080/Out_of_Space/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/400080/header.jpg"
+        },
+        {
+            "nome": "A Lenda do Herói",
+            "descricao": "A Lenda do Herói é um jogo de plataforma com um diferencial: o protagonista reage em tempo real a tudo que o narrador canta sobre suas ações e o mundo ao seu redor.",
+            "ano": 2016,
+            "link": "https://store.steampowered.com/app/389170/A_Lenda_do_Heri/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/389170/header.jpg"
+        },
+        {
+            "nome": "Relic Hunters Zero: Remix",
+            "descricao": "Um jogo de tiro 'twin-stick' gratuito sobre atirar em patos espaciais do mal com armas minúsculas. É rápido, tático e suave como a seda.",
+            "ano": 2015,
+            "link": "https://store.steampowered.com/app/382490/Relic_Hunters_Zero_Remix/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/382490/header.jpg"
+        },
+        {
+            "nome": "Galaxy of Pen & Paper",
+            "descricao": "Crie seu próprio mestre e grupo de RPG em 1999! Explore planetas distantes em sua imaginação, lute contra alienígenas estranhos e salve a galáxia nesta sequência de Knights of Pen & Paper.",
+            "ano": 2017,
+            "link": "https://store.steampowered.com/app/349790/Galaxy_of_Pen__Paper/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/349790/header.jpg"
+        },
+        {
+            "nome": "Pocket Bravery",
+            "descricao": "Inspirado nos clássicos jogos de luta dos anos 90 como Street Fighter e The King of Fighters, Pocket Bravery canaliza a estética 'Neo Geo Pocket' para um jogo de luta moderno com um toque retrô!",
+            "ano": 2023,
+            "link": "https://store.steampowered.com/app/1555150/Pocket_Bravery/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1555150/header.jpg"
+        },
+        {
+            "nome": "99Vidas",
+            "descricao": "99Vidas é um 'beat 'em up' com um toque contemporâneo que presta homenagem tanto aos clássicos do gênero quanto à era dos 16 bits. Cheio de referências à cultura pop e aos jogos.",
+            "ano": 2016,
+            "link": "https://store.steampowered.com/app/557040/99Vidas/",
+            "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/557040/header.jpg"
+        }
+    ]
+}
